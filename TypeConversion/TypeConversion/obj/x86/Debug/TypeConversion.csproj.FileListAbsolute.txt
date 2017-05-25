@@ -1,0 +1,5 @@
+/Users/stevenanderson/projects/CSharpFundamentals/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
+/Users/stevenanderson/projects/CSharpFundamentals/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
+/Users/stevenanderson/projects/CSharpFundamentals/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/stevenanderson/projects/CSharpFundamentals/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.exe
+/Users/stevenanderson/projects/CSharpFundamentals/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.pdb

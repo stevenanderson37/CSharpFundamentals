@@ -1,0 +1,5 @@
+/Users/stevenanderson/projects/CSharpFundamentals/Variables/Variables/bin/Debug/Variables.exe
+/Users/stevenanderson/projects/CSharpFundamentals/Variables/Variables/bin/Debug/Variables.pdb
+/Users/stevenanderson/projects/CSharpFundamentals/Variables/Variables/obj/x86/Debug/Variables.csproj.CoreCompileInputs.cache
+/Users/stevenanderson/projects/CSharpFundamentals/Variables/Variables/obj/x86/Debug/Variables.exe
+/Users/stevenanderson/projects/CSharpFundamentals/Variables/Variables/obj/x86/Debug/Variables.pdb
